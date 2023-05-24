@@ -24,3 +24,7 @@ Example: you want to plot the GGD prior in the HEALpixel 5000.
 
 Then there is the other mode, the "interactive input". Here you can select a position via mouseklick. If you click on "interactive input", a window should pop up. Put the window on fullscreen. Then click on the desired position in the galactic map. In the plot right to the map, the previously selected prior model should be plotted now. If you then click on another position, the plot changes.   
 
+Required Python Packages: matplotlib, numpy, astropy, astropy-healpix, scipy, ipywidgets, ipython, csv
+
+
+
