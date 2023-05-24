@@ -1,6 +1,6 @@
 # Interactive-Prior-Map
 
-The Jupyter Notebook "Interactive Prior Map" can be used to interactively create plots of two different prior probability distributions: either the generalized gamma gistribution (GGD) or the exponentially decreasing density distribution (EDSD), which is a special case of the GGD. (-cite papers-) The parameters for these plots are chosen based on their position in the sky and their respective HEALpixels. You can find them in the prior_summary.csv file.
+The Jupyter Notebook "interactive_prior_map.ipynb" can be used to interactively create plots of two different prior probability distributions: either the generalized gamma gistribution (GGD) or the exponentially decreasing density distribution (EDSD), which is a special case of the GGD. The parameters for these plots are chosen based on their position in the sky and their respective HEALpixels. You can find them in the prior_summary.csv file.
 
 First, you choose your model. There are three options: 
 
