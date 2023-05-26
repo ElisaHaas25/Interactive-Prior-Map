@@ -8,7 +8,7 @@ First, you choose your model. There are three options:
 - only EDSD
 - both GGD and EDSD
 
-Now, you can choose wether you want the HEALPix colour scheme as background or an image of the Milkyway. 
+Now, you can choose wether you want the HEALPix colour scheme as background or an image of the Milkyway (Image by ESA/Gaia). 
 If you want to set the plotting range of the prior yourself, klick the respecktive checkbox and adjust the range via sliders or type in the numbers by klicking on them (they should change by pressing enter). Otherwise the plotting range is being adjusted automatically.   
 
 
