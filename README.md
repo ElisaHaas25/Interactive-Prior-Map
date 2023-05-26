@@ -22,11 +22,14 @@ The default mode is "manual input" (already selected). Here you can set the coor
 Example: you want to plot the GGD prior in the HEALpixel 5000. 
 
 1. select "Model: GGD"   
-2. select "Mode: manual input"
-3. select "Input: HEALpixel"
-4. in the field "HEALpixel", type in "5000" or select "5000" via the respective slider. 
+2. choose the background and optionally adjust the plotting range
+3. select "Mode: manual input"
+4. select "Input: HEALpixel"
+5. in the field "HEALpixel", type in "5000" or select "5000" via the respective slider. 
 
-Then there is the other mode, the "interactive input". Here you can select a position via mouseklick. If you click on "interactive input", a window should pop up. Put the window on fullscreen. Then click on the desired position in the galactic map. In the plot right to the map, the previously selected prior model should be plotted now. If you then click on another position, the plot changes.   
+Then there is the other mode, the "interactive input". Here you can select a position via mouseklick. In the plot right to the map, the previously selected prior model should be plotted now. If you then click on another position, the plot changes.   
+
+After making all adjustments, the desired output is produced by clicking on the "start"-button.
 
 Required Python Packages: matplotlib, numpy, astropy, astropy-healpix, scipy, ipywidgets, ipython, csv
 
