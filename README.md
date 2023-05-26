@@ -19,14 +19,6 @@ Then, you can select the mode. There are two options:
 
 The default mode is "manual input" (already selected). Here you can set the coordinates/HEALpixel yourself. To do this, you first select in the "Input"-field wether you want to enter the galactic longitude and latitude ("glon/glat") or the HEALpixel number ("HEALpixel"). Then based on what you chose, you can select the respective numbers either via sliders or you type them into the field next to the sliders. 
 
-Example: you want to plot the GGD prior in the HEALpixel 5000. 
-
-1. select "Model: GGD"   
-2. choose the background and optionally adjust the plotting range
-3. select "Mode: manual input"
-4. select "Input: HEALpixel"
-5. in the field "HEALpixel", type in "5000" or select "5000" via the respective slider. 
-
 Then there is the other mode, the "interactive input". Here you can select a position via mouseklick. In the plot right to the map, the previously selected prior model should be plotted now. If you then click on another position, the plot changes.   
 
 After making all adjustments, the desired output is produced by clicking on the "start"-button.
